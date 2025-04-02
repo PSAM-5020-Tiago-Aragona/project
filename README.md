@@ -11,3 +11,10 @@ This project will allow users to answer the same survey questions that inmates w
 
 ## Why?
 I live in an area that is predominantly Latina/o. I've seen police officers arrest Latino kids without much justification more than once. It’s a sad image — watching a young Latino kid in handcuffs. This project is a response to that reality.
+
+## Dataset Coding
+The dataset uses references in the names of the columns. This columns correspond to different questions in the survay and are specified in data/37692-0001-Codebook.pdf. Also, the answers are indexed. Let's say the question is: "Do you identify as latino/a?". The answers could be:
+
+- No -> Index: 1
+- Yes -> Index: 2
+- N/A -> Index: 3
