@@ -1,4 +1,4 @@
-# PROJECT 1
+# PROJECT 1: Busted Beforehand
 
 ## The Data
 This is a critical project that uses data from the **Survey of Prison Inmates, 2016** — the most recent and detailed dataset I could find on inmates in the U.S. It includes a substantial amount of information on race, age, level of education, and more. Some sensitive data (which could help identify individuals) is excluded, but that’s not the focus of this project. In fact, that kind of individual identification goes against the point I’m trying to make.
